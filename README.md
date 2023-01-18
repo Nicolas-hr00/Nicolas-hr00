@@ -1,8 +1,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-Hidalgo)](https://github.com/Nicolas-hr00)
- 
+  
 ### Hi there 👋, Nicolas Hidalgo Rotunno 
 #### I am a Computer Science student
 ![I am a Computer Science student](http://philippe.bourgau.net/imgs/2015-08-19-mining-github-for-new-hires/github.png)
