@@ -29,10 +29,20 @@ Git · GitHub · Linux
 
 ## 📌 Featured Projects
 
-Check out my pinned repositories below to explore some of my projects.
+Developing an application designed to connect customers
+with local farmers market vendors.
 
-Currently working on a Farmers Market Application that allows customer to make pre-orders from their phones. Vendors will be able to see all the pre-orders and accept/deny. Set a menu, get anonymous reviews to help vendors 
-provide better customer service and reviews without receiving negative public feedback that could damage the business. 
+Key features:
+- Mobile-friendly customer pre-orders.
+- Vendor dashboard to manage incoming orders.
+- Vendor menus and product listings.
+- Anonymous customer feedback.
+- Discovery of nearby farmers markets and vendors.
 
-It will also let customers view farmers markets near them, see vendors, products and dates.
+Technologies
+- React Native
+- Supabase
+- PostgreSQL
+- Expo Go
+- Microsoft 365
 
